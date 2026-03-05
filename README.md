@@ -1,5 +1,3 @@
----
-
 # 🚀 STM32 CAN Bus Handshake Project
 
 ## 📝 Project Overview
