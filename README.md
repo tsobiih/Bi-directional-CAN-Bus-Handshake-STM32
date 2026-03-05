@@ -1,5 +1,3 @@
-أبشر يا طارق، عملتلك الـ **README** بتنسيق **Markdown** احترافي وجاهز للنسخ فوراً. التنسيق ده بيستخدم الـ Hierarchy والـ Tables عشان يخلي شكل مشروعك "Premium" على جيت هاب.
-
 ---
 
 # 🚀 STM32 CAN Bus Handshake Project
